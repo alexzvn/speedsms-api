@@ -80,4 +80,4 @@ Feel free to create pull request or issue for this package.
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+The package is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
