@@ -1,7 +1,5 @@
 # General Speedsms API
 
-This package replace shitty code that [speedsms.vn](https://speedsms.vn) provided. Also you need register an account on their site.
-
 ## Installation
 
 Install via composer
